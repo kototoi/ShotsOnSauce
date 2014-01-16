@@ -1,7 +1,7 @@
 --- 
 - !ruby/object:Browser 
   name: 'firefox'
-  version: '25'
+  version: '26'
   platform: 'Windows 8'
   resolution: '1280x1024'
 - !ruby/object:Browser 
@@ -29,13 +29,5 @@
   version: ''
   platform: 'Windows 7'
   resolution: '1280x1024'
-- !ruby/object:Browser 
-  name: 'safari'
-  version: '6'
-  platform: 'OSX 10.8'
-  resolution: '1024x768'
-- !ruby/object:Browser 
-  name: 'ipad'
-  version: '6.1'
-  platform: 'OSX 10.8'
-  resolution: ''
+
+
